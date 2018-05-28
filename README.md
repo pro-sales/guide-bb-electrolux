@@ -1,6 +1,6 @@
 ## Herzlich Willkommen
 
-Sie finden Ihre persönliche Einkaufswelt unter: https://el.pro-sales.ch
+Sie finden Ihre persönliche Einkaufswelt unter: [http://el.pro-sales.ch](http://el.pro-sales.ch)
 
 ![Preview: Shop](/img/index.png)
 
