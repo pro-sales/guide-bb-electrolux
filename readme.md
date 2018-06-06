@@ -27,6 +27,16 @@ Sie sollten nun zum Editor gelangen:
 
 Füllen Sie die Visitenkarte vollständig aus.
 
+## HTML Formatierungen
+
+Alle Felder erlauben die Nutzung von [HTML](https://www.w3schools.com/html/html_intro.asp) zur Formatierung des Inhaltes. Nachfolgend finden Sie eine Liste mit den bekanntesten Formatierungen:
+
+| Formatierung | HTML-Befehl | Beispiel | Resultat |
+| ------------ | ----------- | -------- | -------- |
+| Umbruch      | `<br>`      | `Zeile 1<br>Zeile 2` | Zeile 1<br>Zeile 2 |
+| Fett         | `<b></b>`   | `Dieser Text ist <b>Fett</b>.` | Dieser Text ist <b>Fett</b>. |
+| Kursiv       | `<i></i>`   | `Dieser Text ist <i>Kursiv</i>.` | Dieser Text ist <i>Kursiv</i>. |
+
 ## Zu viel Text
 
 Sollte der Text einmal das Layout verlassen wird eine Fehlermeldung dargestellt:
