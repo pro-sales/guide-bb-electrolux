@@ -7,6 +7,8 @@ Sie finden Ihre persönliche Einkaufswelt unter: [http://el.pro-sales.ch](http:/
 1. Geben Sie Ihre Zugangsdaten unter Login ein.
 2. Klicken Sie auf «Einloggen».
 
+----------------------------------------------------------------------
+
 ## Shop Einstieg
 
 Nach erfolgreichem Login werden Sie zu den Druckmaterialien weitergeleitet:
@@ -20,6 +22,7 @@ Nach erfolgreichem Login werden Sie zu den Druckmaterialien weitergeleitet:
 2. Wählen Sie die Bestellmenge (Auflage).
 3. Klicken Sie «Artikel wählen».
 
+----------------------------------------------------------------------
 
 ## Visitenkarte
 
@@ -54,6 +57,7 @@ wird auch der Prefix nicht ausgegeben:
 
 ![image: private address!](/img/private-address.png)
 
+----------------------------------------------------------------------
 
 ## HTML Formatierungen
 
@@ -63,6 +67,8 @@ Alle Felder erlauben die Nutzung von [HTML](https://www.w3schools.com/html/html_
 | ------------ | ----------- | -------- | -------- |
 | Umbruch      | `<br />`      | `Zeile 1<br />Zeile 2` | Zeile 1<br />Zeile 2 |
 
+----------------------------------------------------------------------
+
 ## Zu viel Text
 
 Sollte der Text einmal das Layout verlassen wird eine Fehlermeldung dargestellt:
@@ -71,6 +77,8 @@ Sollte der Text einmal das Layout verlassen wird eine Fehlermeldung dargestellt:
 
 Korrigieren Sie den Text und klicken Sie auf «In den Warenkorb» um das Produkt im Warenkorb aufzunehmen.
 Alternativ könnne Sie das Produkt auf die Merkliste setzen um dies später weiter zu bearbeiten.
+
+----------------------------------------------------------------------
 
 ## Warenkorb
 
@@ -82,6 +90,8 @@ Hier können Sie noch einmal die Auflage korrigieren.
 
 Durch klicken auf «Bestellen» bestellen Sie das Produkt.
 
+----------------------------------------------------------------------
+
 ## Kostenstellennummer
 
 Optional können Sie nun eine Kostenstellennummer definieren:
@@ -89,6 +99,8 @@ Optional können Sie nun eine Kostenstellennummer definieren:
 ![image: costs!](/img/costs.png)
 
 Klicken Sie auf «Bestellen».
+
+----------------------------------------------------------------------
 
 ## Bestellhinweis
 
@@ -99,13 +111,15 @@ hinzufügen welche in der Bestellung ausgegeben werden.
 
 Klicken Sie auf «Bestellen».
 
+----------------------------------------------------------------------
+
 ## Bestellbestätigung
 
 Herzlichen Glückwunsch Ihr Produkt wurde bestellt.
 
 ![image: confirmation!](/img/confirmation.png)
 
-## Bestellbestätigung (E-Mail)
+### Bestellbestätigung (E-Mail)
 
 Gleichzeitig haben Sie als Besteller eine Bestätigungsemail erhalten in welchem das Produkt beigelegt wurde:
 
@@ -117,6 +131,8 @@ Diese E-Mail wird zeitgleich an folgende Adressen zugestellt:
 
 - A.Boesch@schellenbergdruck.ch - Andreas Bösch
 - prosales@pro-sales.ch - Pro Sales AG
+
+----------------------------------------------------------------------
 
 ## Mein Konto
 
